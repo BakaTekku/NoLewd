@@ -57,3 +57,4 @@
 0.0.0.0 hanime.xxx
 0.0.0.0 hentaicomics.pro
 0.0.0.0 hentaipros.com
+0.0.0.0 h-anime.net
